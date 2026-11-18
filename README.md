@@ -1,5 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working as Security Admin Associate L1 Intern<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 👨‍💻 Hey, I'm Shaheel!
+
+🔐 **Breaking things (ethically), securing systems, and learning how technology works beneath the surface.**
+
+I'm a Computer Science postgraduate with a strong interest in **Cybersecurity, SOC Operations, Network Security, and IoT Security**.
+
+I enjoy exploring how systems work, investigating security threats, analyzing network traffic, and building practical projects that turn theoretical knowledge into real-world skills.
+
+### 🚀 What I'm Up To
+- 🛡️ Gaining hands-on experience in Security Administration and SOC-related operations.
+- 🔍 Exploring threat detection, vulnerability assessment, and security monitoring.
+- 🌐 Learning more about network security, Linux, and ethical hacking.
+- 🐍 Building security-focused projects using Python.
+- ⚡ Exploring real-time security monitoring and IoT security architectures.
+
+### 🧰 My Tech Arsenal
+**Languages:** Python, SQL, HTML, CSS  
+**Security Tools:** Nmap, Wireshark, Burp Suite, OWASP ZAP, Splunk  
+**Platforms:** Linux, Kali Linux, Ubuntu, VirtualBox  
+**Currently Exploring:** SIEM, Threat Detection, Network Security & IoT Security
+
+### 🎯 My Philosophy
+> Don't just learn how systems work. Understand how they break, why they break, and how to make them stronger.
+
+### 🤝 Let's Connect!
+Always open to learning, collaborating on cybersecurity projects, and connecting with people passionate about technology.
+
+**Explore my repositories, share ideas, or let's build something meaningful together!**
 
 
 ## 🌐 Socials:
