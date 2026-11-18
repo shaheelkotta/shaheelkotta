@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👨‍💻 Hey, I'm Shaheel!
+# 👨‍💻 Hey, I'm Shaheel!
 
 🔐 **Breaking things (ethically), securing systems, and learning how technology works beneath the surface.**
 
